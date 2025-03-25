@@ -6,6 +6,10 @@
 
 https://dlut-tic.github.io/ （TODO：近期迁移）
 
+## 组内开源项目合集
+
+[GitHub - TIC-DLUT/awesome-tic: 组内开源项目合集](https://github.com/TIC-DLUT/awesome-tic)
+
 ## 例会学习资料
 
 > 资料固好，记得配合例会食用哦
