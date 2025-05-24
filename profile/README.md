@@ -16,7 +16,8 @@ https://tic-dlut.github.io/project-list/
 
 > 资料固好，记得配合例会食用哦
 
-| 名称            | 内容              | 链接                                              |
-| ------------- | --------------- | ----------------------------------------------- |
-| 2025年春季例会前端部分 | 一个简易ai聊天应用的前端部分 | https://github.com/TIC-DLUT/2025_Spring         |
-| 2025年春季例会后端部分 | 一个简易ai聊天应用的后端部分 | https://github.com/TIC-DLUT/2025_spring_backend |
+| 名称             | 内容                   | 链接                                              |
+| -------------- | -------------------- | ----------------------------------------------- |
+| 2025年春季例会前端部分  | 一个简易ai聊天应用的前端部分      | https://github.com/TIC-DLUT/2025_Spring         |
+| 2025年春季例会后端部分  | 一个简易ai聊天应用的后端部分      | https://github.com/TIC-DLUT/2025_spring_backend |
+| 2025年春季例会Git讲解 | 讲解git的基础操作、github的功能 | https://github.com/TIC-DLUT/git-test            |
