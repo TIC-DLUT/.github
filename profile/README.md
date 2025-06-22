@@ -12,6 +12,10 @@ https://dlut-tic.github.io/ （TODO：近期迁移）
 
 https://tic-dlut.github.io/project-list/
 
+## 组内优秀项目合集
+
+[Awesome-Tic!](https://github.com/TIC-DLUT/awesome-tic)
+
 ## 例会学习资料
 
 > 资料固好，记得配合例会食用哦
